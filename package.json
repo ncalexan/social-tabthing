@@ -2,7 +2,7 @@
     "id": "jid1-jctN84MsWBHQGA",
     "name": "social-tabthing",
     "fullName": "social-tabthing",
-    "description": "Propagate tab events to social providers"
+    "description": "Firefox add-on to propagate tab events to social providers",
     "author": "Nick Alexander",
     "license": "MPL 2.0",
     "version": "0.1",
